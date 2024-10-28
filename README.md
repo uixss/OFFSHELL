@@ -1,6 +1,6 @@
 # OFFSHELL 🔥
 
-**OFFSHELL: Offensive tool to obfuscate PowerShell payloads**
+**Offensive tool to obfuscate PowerShell payloads**
 
 ---
 

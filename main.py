@@ -18,7 +18,7 @@ case_obfs = False
 
 
 def ascii_art():
-
+    print("OFFSHELL\n")
     print("by @uixss v0.2\n")
 
 
